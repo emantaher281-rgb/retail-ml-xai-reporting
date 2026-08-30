@@ -28,11 +28,11 @@ Retail-ML-XAI-LLM/
 ├── verify_package.py              # audits the package before every push
 │
 ├── Code/
-│   ├── 01_customer_segmentation.ipynb
-│   ├── 02_product_recommendation.ipynb
-│   ├── 03_product_level_sales_prediction.ipynb
-│   ├── 04_daily_sales_forecasting.ipynb
-│   └── 05_llm_decision_report.ipynb
+│   ├── 01_customer_segmentation.py
+│   ├── 02_product_recommendation.py
+│   ├── 03_product_level_sales_prediction.py
+│   ├── 04_daily_sales_forecasting.py
+│   └── 05_llm_decision_report.py
 │
 ├── src/
 │   ├── repro.py                   # seeds, paths, environment manifest, figure export
